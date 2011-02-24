@@ -48,7 +48,7 @@ public class FragmentStack extends Activity {
         Button button2 = (Button)findViewById(R.id.back_fragment);
         button2.setOnClickListener(new OnClickListener() {
             public void onClick(View v) {
-            	FragmentStack.this.getFragmentManager().popBackStack("level2", 0);
+            	FragmentStack.this.getFragmentManager().popBackStack("level2", 0);  //按照名称返回
             }
         });
 
@@ -80,7 +80,7 @@ public class FragmentStack extends Activity {
         FragmentTransaction ft = getFragmentManager().beginTransaction();
         ft.replace(R.id.simple_fragment, newFragment);
         ft.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_OPEN);
-        ft.addToBackStack("level"+mStackLevel);
+        ft.addToBackStack("level"+mStackLevel);  //加到返回堆栈中，加名称
         ft.commit();
     }
 
