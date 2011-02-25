@@ -33,6 +33,10 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * 测试在eclipse里面用git提交。
+ * **/
+
 public class ApiDemos extends ListActivity {
 
     @Override
