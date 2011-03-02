@@ -34,6 +34,8 @@ import java.util.List;
 import java.util.Map;
 
 /**
+ * 
+ * how to combine.
  * 测试在eclipse里面用git提交。
  * 如何合并。
  * **/
