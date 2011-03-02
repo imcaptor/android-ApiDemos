@@ -28,6 +28,7 @@ import android.preference.PreferenceManager;
  * 
  * See samples/ApiDemos/tests/src/com.example.android.apis/ApiDemosApplicationTests for an example
  * of how to perform unit tests on an Application object.
+ * 测试stash 3.
  */
 public class ApiDemosApplication extends Application {
 
