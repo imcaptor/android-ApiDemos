@@ -1,5 +1,8 @@
 package com.example.android.apis;
 
+/**
+ * 测试一下stash 2
+ * */
 public final class Shakespeare {
     /**
      * Our data, part 1.
