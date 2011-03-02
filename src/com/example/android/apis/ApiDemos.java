@@ -35,6 +35,7 @@ import java.util.Map;
 
 /**
  * 测试在eclipse里面用git提交。
+ * 如何合并。
  * **/
 
 public class ApiDemos extends ListActivity {
