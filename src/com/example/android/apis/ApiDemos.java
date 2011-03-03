@@ -38,7 +38,8 @@ import java.util.Map;
  * how to combine.
  * 测试在eclipse里面用git提交。
  * 如何合并。
- * conflict2
+ * conflict1
+ * conflict2 
  * **/
 
 public class ApiDemos extends ListActivity {

@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /home/test/apps/android-sdk-linux_x86/samples/android-11/ApiDemos/src/com/example/android/apis/app/ISecondary.aidl
+ * Original file: /home/test/workspace2/android-ApiDemos/src/com/example/android/apis/app/ISecondary.aidl
  */
 package com.example.android.apis.app;
 /**
